@@ -15,7 +15,7 @@ const Navbar = ({menuOpen, setMenuOpen}: MenuOpenProps) => {
         <div className="flex justify-between items-center h-16">
             <a href="#home" className="font-mono text-xl font-bold text-white">
                 {" "}
-                Tejeswara <span className="text-blue-500">Sai</span> {" "}
+                Tejeswara Sai <span className="text-blue-500">Appikatla</span> {" "}
             </a>
             
             <div className="w-7 h-5 relative cursor-pointer z-40 md:hidden" onClick={() => setMenuOpen(!menuOpen)}>
