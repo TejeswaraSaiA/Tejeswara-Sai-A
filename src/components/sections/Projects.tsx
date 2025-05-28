@@ -27,9 +27,7 @@ const Projects = () => {
                     </span>
                 ))}
                 </div>
-                <div className="flex justify-between items-center pt-5 text-right">
-                    <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors"> View Project → </a>
-                </div>
+                
             </div>
 
         {/* Agile Business Platform - Process Builder */}
@@ -46,9 +44,7 @@ const Projects = () => {
                     </span>
                 ))}
                 </div>
-                <div className="flex justify-between items-center pt-5 text-right">
-                    <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors"> View Project → </a>
-                </div>
+                
             </div>
 
         {/* TIMP - Petrobras */}
@@ -65,9 +61,7 @@ const Projects = () => {
                     </span>
                 ))}
                 </div>
-                <div className="flex justify-between items-center pt-5 text-right">
-                    <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors"> View Project → </a>
-                </div>
+                
             </div>
 
         {/* SWITX - ETL Builder */}
@@ -84,9 +78,7 @@ const Projects = () => {
                     </span>
                 ))}
                 </div>
-                <div className="flex justify-between items-center pt-5 text-right">
-                    <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors"> View Project → </a>
-                </div>
+                
             </div>
 
         {/* SWITX - Automated Migration Tool */}
@@ -103,9 +95,7 @@ const Projects = () => {
                     </span>
                 ))}
                 </div>
-                <div className="flex justify-between items-center pt-5 text-right">
-                    <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors"> View Project → </a>
-                </div>
+                
             </div>
 
         {/* Agile Knowledge Builder */}
@@ -122,9 +112,7 @@ const Projects = () => {
                     </span>
                 ))}
                 </div>
-                <div className="flex justify-between items-center pt-5 text-right">
-                    <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors"> View Project → </a>
-                </div>
+                
             </div>
 
         {/* Analysis and Virtualization of Child Mortality Rate */}
@@ -141,9 +129,7 @@ const Projects = () => {
                     </span>
                 ))}
                 </div>
-                <div className="flex justify-between items-center pt-5 text-right">
-                    <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors"> View Project → </a>
-                </div>
+                
             </div>
 
         {/*Sports Management System*/}
@@ -160,9 +146,7 @@ const Projects = () => {
                     </span>
                 ))}
                 </div>
-                <div className="flex justify-between items-center pt-5 text-right">
-                    <a href="#" className="text-blue-400 hover:text-blue-300 transition-colors"> View Project → </a>
-                </div>
+                
             </div>
         </div>
       </div>
